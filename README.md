@@ -3,4 +3,4 @@ Code for paper: "Development of a Prior-Attention-Based Multi-Label Classificati
 
 Code coming soon...
 
-![Workflow](https://github.com/jiqibuaixuexi/Prior-Attention-Based-Multi-Label-Classification-Model/main/images/Workflow.png)
+![Workflow](images/Workflow.png)
